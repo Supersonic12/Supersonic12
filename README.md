@@ -14,6 +14,8 @@ I spend most of my time building low-level tools, breaking things in pen testing
 
 **[Linux Beginner Minilab](https://github.com/Supersonic12/linux-beginner-minilab)** — Hands-on lab for learning Linux commands. Built to teach, not just document.
 
+**[Wazuh Lab](https://github.com/Supersonic12/wazuhLab-remake)** - Hands-on lab for learning setup and writing custom rules for Wazuh alerting.
+
 **[Dotfiles](https://github.com/Supersonic12/.dotfiles)** — My dwm-flexipatch, dwmblocks, picom, dunst, and rofi configuration. Minimal, fast, intentional.
 
 ---
